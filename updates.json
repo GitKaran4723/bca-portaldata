@@ -2,6 +2,14 @@
   "last_updated": "12th July 2025",
   "updates": [
     {
+      "id": 2,
+      "type": "Syllabus",
+      "title": "Syllabus Copies for BCA (All Branches)",
+      "date": "12th July 2025",
+      "description": "Updated syllabus copies for BCA students of all three branches (Section A, B, and C) are now available. Click below to access.",
+      "link": "https://university-portal.edu/bca/syllabus-2025"
+    },
+    {
       "id": 1,
       "type": "Orientation",
       "title": "BCA Semester 1 Orientation Program",
